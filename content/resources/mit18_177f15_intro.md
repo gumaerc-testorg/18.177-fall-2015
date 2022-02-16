@@ -5,8 +5,13 @@ description: 'Introductory slides on universal random structures in 2D. Topics i
   random trees, universal random surfaces, universal random paths, universal random
   growth, welding random surfaces, mating random trees, random growth on random surfaces,
   mating random trees produced by a snake, and universal random surfaces.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-177-universal-random-structures-in-2d-fall-2015/bbe0bf635099428fb0a1d6265c3273f8_MIT18_177F15_Intro.pdf
+file: /media/courses/18-177-universal-random-structures-in-2d-fall-2015/bbe0bf635099428fb0a1d6265c3273f8_MIT18_177F15_Intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Universal random structures in 2D
 uid: bbe0bf63-5099-428f-b0a1-d6265c3273f8

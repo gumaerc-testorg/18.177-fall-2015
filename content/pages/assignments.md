@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fb1058c5-e62c-bac5-833d-ebf14535f227
 ---
@@ -7,7 +10,7 @@ uid: fb1058c5-e62c-bac5-833d-ebf14535f227
 Problem Set 1
 -------------
 
-1.  Let Bt be standard Brownian motion and f(x) = x3+ex. Compute df(Bt) using the formalism of Ito's formula.
+1.  Let B{{< sub "t" >}} be standard Brownian motion and f(x) = x3+ex. Compute df(B{{< sub "t" >}}) using the formalism of Ito's formula.
 2.  Work out an explicit example (as small as you like) of the Cori-Vaquelin-Schaeer, the Mullin bijection, the hamburger cheeseburger bijection, and the bipolar planar map bijection.
 3.  Generate a uniform random spanning tree on a small graph (by hand) using coin tosses and Wilson's algorithm.
 4.  If you have the range of a stable subordinator of parameter α and the range of another stable subordinator of parameter β, what conditions on β and α ensure the intersection of these two sets is almost surely empty? Use the Bessel process relationship to explain your answer.
