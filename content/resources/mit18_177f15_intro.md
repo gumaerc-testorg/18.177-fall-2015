@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c43d624-ee12-198a-8382-22e3fa098f69
 resourcetype: Document
 title: Universal random structures in 2D
 uid: bbe0bf63-5099-428f-b0a1-d6265c3273f8

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a29df737-820a-7b0a-d65f-2f8cdb8c112c
 resourcetype: Document
 title: Universal randomness in 2D
 uid: fb0adaaf-b5f3-8114-b047-1312c8687de6
