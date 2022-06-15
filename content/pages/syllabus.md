@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings and notes, problem sets, the final project,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Basic probability at the level of an introductory graduate course, [_18.175 Theory of Probability_](/courses/18-175-theory-of-probability-spring-2014/) or equivalent. Useful background material can also be found in the online ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Probability: Theory and Examples (PDF - 1.9MB)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) notes by Rick Durrett at Duke University.
+Basic probability at the level of an introductory graduate course, [_18.175 Theory of Probability_](/courses/18-175-theory-of-probability-spring-2014) or equivalent. Useful background material can also be found in the online [Probability: Theory and Examples (PDF - 1.9MB)](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) notes by Rick Durrett at Duke University.
 
 Description
 -----------
@@ -30,7 +33,7 @@ Topics include:
 Textbook and Notes
 ------------------
 
-There is no required text; references are assigned in the [readings section]({{< baseurl >}}/pages/readings). A set of [lecture notes]({{< baseurl >}}/pages/lecture-notes) that is still in development is also available.
+There is no required text; references are assigned in the {{% resource_link 1c43d624-ee12-198a-8382-22e3fa098f69 "readings section" %}}. A set of {{% resource_link a29df737-820a-7b0a-d65f-2f8cdb8c112c "lecture notes" %}} that is still in development is also available.
 
 Problem Sets & Final Project
 ----------------------------

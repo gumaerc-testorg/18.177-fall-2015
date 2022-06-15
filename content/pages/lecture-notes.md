@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -18,4 +19,4 @@ Finally, we discuss the intricate and surprising relationships _between_ these u
 
 The lecture notes are a draft in progress by Scott Sheffield and Jason Miller.
 
-[Lecture Notes for Universal Random Structures in 2D (PDF)]({{< baseurl >}}/resources/mit18_177f15_lecnotes) (Courtesy of Scott Sheffield and Jason Miller. Used with permission.)
+{{% resource_link fb0adaaf-b5f3-8114-b047-1312c8687de6 "Lecture Notes for Universal Random Structures in 2D (PDF)" %}} (Courtesy of Scott Sheffield and Jason Miller. Used with permission.)
